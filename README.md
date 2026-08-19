@@ -1,5 +1,6 @@
 # 💳 Credit Card Discount Calculator
 
+
 A simple **Python-based discount calculation program** that determines whether a customer is eligible for a **10% discount** based on their payment method, number of products purchased, and individual product prices.
 
 The project demonstrates the use of **conditional statements, nested `if-else` logic, user input, arithmetic operations, and formatted output in Python**.
